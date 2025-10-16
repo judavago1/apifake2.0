@@ -31,7 +31,7 @@ function App() {
         <Link to="/informativa">Informativa</Link>
         <Link to="/original">Original</Link>
         <Link to="/favoritos">
-          Favoritos ({carrito.length})
+          Carrito ({carrito.length})
         </Link>
       </nav>
 
